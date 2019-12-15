@@ -1,7 +1,7 @@
 # Penz v0.1.0
 ## What is this?
 像速写一样处理SketchUp模型  
-Draw Edges like using a pen in SketchUp
+Paint edges with colors in SketchUp like using a pen 
 
 ## Functions:
 1. 边界涂色，无论是否在群组/组件之内  
